@@ -1,0 +1,9 @@
+
+header ul li a {
+	margin: 5px 15px;
+	font-size: 1.2em;
+	text-transform: uppercase;
+}
+.capa {
+	text-align: center;
+}
